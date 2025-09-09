@@ -1,2 +1,2 @@
 # test
-write quicksort in java
+write quicksort in python
